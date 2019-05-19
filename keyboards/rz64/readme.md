@@ -4,7 +4,7 @@
 
 A no name taobao board that has per-key RGB and hotswap sockets
 
-Keyboard Maintainer: [%rzeema%](https://github.com/rzeema)  
+Keyboard Maintainer: [rzeema](https://github.com/rzeema)  
 Hardware Supported: The PCBs, controllers supported  
 Hardware Availability: Taobao
 
